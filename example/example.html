@@ -1,0 +1,11 @@
+<script src="translate-light.min.js"></script>
+
+<script>
+let trans = new TranslateLight();
+trans.setLang("en");
+trans.setText({"Hello" : {"en" : "Hello", "fr" : "Bonjour", "ger" : "Hallo"}});
+console.log(trans.get("Hello"));
+trans.setLang("fr");
+console.log(trans.get("Hello"));
+
+</script>
