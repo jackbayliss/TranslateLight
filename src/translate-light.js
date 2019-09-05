@@ -15,7 +15,11 @@ class TranslateLight {
     */
     setText(text) {
              if(typeof text == "object"){
-                 this.text = text
+                    if(Object.keys(text).length>0){
+                        this.text = text
+                    }else{
+                        throw("Please pass in your translations in the object");
+                    }
               
              }else {
                  throw("setText() expects an object parameter.");
@@ -52,3 +56,7 @@ class TranslateLight {
       
  
  }
+
+if(typeof module!=="undefined"){
+    module.exports = TranslateLight;
+}

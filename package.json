@@ -1,0 +1,25 @@
+{
+  "name": "translatelight",
+  "version": "1.0.0",
+  "description": "Super easy translation API, making it easier for you to set your own translation languages & text. It's still a work in progress, and is by no means bullet proof, but it works.",
+  "main": "./src/translate-light.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackbayliss/TranslateLight.git"
+  },
+  "author": "Jack Bayliss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jackbayliss/TranslateLight/issues"
+  },
+  "homepage": "https://github.com/jackbayliss/TranslateLight#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
