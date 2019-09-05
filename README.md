@@ -1,4 +1,4 @@
-# TranslateLight
+![TEXGINE](https://i.imgur.com/CZztHWL.png)
  Super easy translation API, making it easier for you to set your own translation languages & text. It's still a work in progress, and is by no means bullet proof, but it works.
  
  **This won't automatically translate your text, but is more of an API to make it easier to manage when having to self translate.**
