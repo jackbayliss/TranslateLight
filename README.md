@@ -1,3 +1,7 @@
+[![Status](https://github.com/jackbayliss/translatelight/workflows/Node%20CI/badge.svg)](https://github.com/{jackbayliss}/{translatelight}/actions)
+
+
+
 ![TEXGINE](https://i.imgur.com/CZztHWL.png)
  Super easy translation API, making it easier for you to set your own translation languages & text. It's still a work in progress, and is by no means bullet proof, but it works.
  
