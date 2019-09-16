@@ -36,7 +36,7 @@ element.innerHTML = trans.get("Hello");
   * Jack Bayliss - Initial work
   
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/jackbayliss/TranslateLight/blob/master/README.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/jackbayliss/TranslateLight/blob/master/LICENSE) file for details
   
   
 That's all folks 👍
